@@ -1,0 +1,7 @@
+1- cree el proyecto en GitHub
+2- clone el proyecto y abri vs-code
+3- cree el archivo index.js
+4- en la consola escribi " npm init -y "//crea el archivo package.json
+5- luego instale express con " npm i express" 
+6- instale nodemon " npm install --save-dev nodemon " // npx nodemon index.js
+7- integre mysql al proyecto para la coneccion a la database " npm install mysql "

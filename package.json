@@ -1,0 +1,29 @@
+{
+  "name": "DrinksApiExpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon server/server.js -w server "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielquatt/DrinksApi_Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielquatt/DrinksApi_Express/issues"
+  },
+  "homepage": "https://github.com/gabrielquatt/DrinksApi_Express#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
