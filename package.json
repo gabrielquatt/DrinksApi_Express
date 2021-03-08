@@ -1,17 +1,17 @@
 {
-  "name": "DrinksApiExpress",
+  "name": "drinksapiexpress",
   "version": "1.0.0",
-  "description": "",
+  "description": "pagina de prueba",
   "main": "index.js",
   "scripts": {
-    "dev": "npx nodemon server/server.js -w server "
+    "dev": "npx nodemon server/server.js -w server"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gabrielquatt/DrinksApi_Express.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "gabrielquatt",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/gabrielquatt/DrinksApi_Express/issues"
